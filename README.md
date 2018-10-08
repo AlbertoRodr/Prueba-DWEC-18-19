@@ -17,8 +17,3 @@ Dillinger is currently extended with the following plugins. Instructions on how 
 | Medium | [plugins/medium/README.md][PlMe] |
 | Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
 
-Pruebas desde Eclipse!!
-
-Segunda prueba desde Eclipse!
-
-Modificando desde Eclipse!
