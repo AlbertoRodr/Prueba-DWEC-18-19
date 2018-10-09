@@ -6,8 +6,9 @@ junto a mis compañeros [Fernando Bueno Romero](https://github.com/FeeerBuenoo) 
 
 ## Preview
 
-Somos una pequeña empresa emprendedora que tiene la intención de sacar este proyecto llamado Google Airport. 
-El proyecto
+- Somos una pequeña empresa emprendedora que tiene la intención de sacar este proyecto llamado Google Airport. 
+
+- El proyecto
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-creative/)**
 
