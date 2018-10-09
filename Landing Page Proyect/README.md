@@ -1,12 +1,13 @@
 # Google Airport
 
 Soy [Alberto Rodríguez Granados](https://github.com/AlbertoRodr) y formo parte de la empresa FAF & FURIOUS 
-junto a mis compañeros [Fernando Bueno Romero](https://github.com/FeeerBuenoo) y Fernando Bueno Romero.
+junto a mis compañeros [Fernando Bueno Romero](https://github.com/FeeerBuenoo) y Fernando Cosa Romero.
 
 
 ## Preview
 
-[![Creative Preview](https://startbootstrap.com/assets/img/templates/creative.jpg)](https://blackrockdigital.github.io/startbootstrap-creative/)
+Somos una pequeña empresa emprendedora que tiene la intención de sacar este proyecto llamado Google Airport. 
+El proyecto
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-creative/)**
 
