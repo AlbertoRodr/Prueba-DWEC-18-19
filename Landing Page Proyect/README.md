@@ -2,7 +2,7 @@
 
 
 
-Soy [Alberto Rodríguez Granados](https://github.com/AlbertoRodr) y formo parte de la empresa FAF & FURIOUS 
+Soy [Alberto Rodríguez Granados](https://github.com/AlbertoRodr) y formo parte de la empresa FAF&Furious 
 junto a mis compañeros [Fernando Bueno Romero](https://github.com/FeeerBuenoo) y Fernando Cosa Romero.
 
 
